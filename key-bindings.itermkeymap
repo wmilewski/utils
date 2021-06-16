@@ -1,0 +1,53 @@
+{
+    "Key Mappings":
+    {
+        "0xf702-0x280000-0x7b":
+        {
+            "Label": "",
+            "Action": 10,
+            "Text": "b"
+        },
+        "0x7a-0x100000-0x6":
+        {
+            "Label": "",
+            "Action": 11,
+            "Text": "0x1f"
+        },
+        "0x7f-0x100000-0x33":
+        {
+            "Label": "",
+            "Action": 11,
+            "Text": "0x15"
+        },
+        "0xf702-0x300000-0x7b":
+        {
+            "Label": "",
+            "Action": 11,
+            "Text": "0x01"
+        },
+        "0xf703-0x280000-0x7c":
+        {
+            "Label": "",
+            "Action": 10,
+            "Text": "f"
+        },
+        "0x7f-0x120000-0x33":
+        {
+            "Label": "",
+            "Action": 11,
+            "Text": "0x0b"
+        },
+        "0x7f-0x80000-0x33":
+        {
+            "Label": "",
+            "Action": 11,
+            "Text": "0x1b 0x08"
+        },
+        "0xf703-0x300000-0x7c":
+        {
+            "Label": "",
+            "Action": 11,
+            "Text": "0x05"
+        }
+    }
+}
