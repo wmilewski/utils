@@ -3,7 +3,7 @@
 ## iTerm2 key bindings
 A couple of navigation key bindings that are common on MacOS but not by default in iTerm2.
 
-`key-bindings.itermkeymap` can be imported via Preferences. Note that there may be clashes with your existing bindings.
+`key-bindings.itermkeymap` can be imported via Preferences. Note that there may be clashes with your existing bindings - check/import in both `Preferences -> Key Mappings` and `Keys -> Key Bindings`.
 
  - ⌥+← moves one word to the left
  - ⌥+→ moves one word to the right
